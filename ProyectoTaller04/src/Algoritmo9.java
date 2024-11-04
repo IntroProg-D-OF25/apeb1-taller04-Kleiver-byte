@@ -11,3 +11,9 @@ public class Algoritmo9 {
         System.out.print("El area del poligono es : "+ areaT_poligono);
     }
 }
+/**
+ * Debug:
+ * Base del triangulo: 3
+ * Altura del rectangulo: 4
+ * El area del poligono es : 39.0
+ */
